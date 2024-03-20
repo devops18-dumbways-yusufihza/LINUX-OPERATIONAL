@@ -6,6 +6,9 @@ CentOS adalah sistem operasional linux yang digunakan untuk membuat sebuah dedic
 akan tetapi penggunaan dari centos yang bersifat komunitas dan perilasan yang lebih lama maka cent os memiliki tingkat kestabilan dan update aplikasi lebih stabil
 
 2.CLI: Command Line interface adalah sebuah command atau perintah berbasis teks yang yang kegunaannya adalah untuk mengelola komputer,membuat file,dan juga berinteraksi dengan komputer
+
+
+
 GUI:Graphical User interface adalah sistem komponen visual interaktif yang digunakan dalam perangkat lunak komputer, smartphone, dan berbagai perangkat elektronik lainnya. 
 GUI menampilkan objek yang menyampaikan informasi dan mewakili tindakan yang dapat diambil oleh pengguna Objek-objek tersebut berubah warna, ukuran, atau visibilitas saat pengguna
 mengkliknya.
