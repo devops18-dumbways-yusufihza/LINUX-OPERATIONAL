@@ -24,3 +24,10 @@ GUI:Graphical User interface adalah sistem komponen visual interaktif yang digun
 GUI menampilkan objek yang menyampaikan informasi dan mewakili tindakan yang dapat diambil oleh pengguna Objek-objek tersebut berubah warna, ukuran, atau visibilitas saat pengguna
 mengkliknya.
 3.
+
+
+4. fungi sistemct1
+![perintah systemct1 untuk service](https://github.com/devops18-dumbways-yusufihza/LINUX-OPERATIONAL/assets/164095170/7f3a2144-54d4-4564-9c11-554c513eb0cc)
+salah satu contoh diatas untuk sistem ct1 untuk mengetahui service layanan
+![perintah untuk systemct1 utk pemberhetian layanan](https://github.com/devops18-dumbways-yusufihza/LINUX-OPERATIONAL/assets/164095170/61348fc5-9d79-456c-91f0-9fe8f67bbe1d)
+salah satu conoth diatas untuk sistem ct1 untuk memberhentikan aplikasi yang dijalankan
