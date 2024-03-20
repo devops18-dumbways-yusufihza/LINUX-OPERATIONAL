@@ -13,10 +13,10 @@ GUI:Graphical User interface adalah sistem komponen visual interaktif yang digun
 GUI menampilkan objek yang menyampaikan informasi dan mewakili tindakan yang dapat diambil oleh pengguna Objek-objek tersebut berubah warna, ukuran, atau visibilitas saat pengguna
 mengkliknya.
 
+
+
+
 3.
-
-
-
 
 
 
