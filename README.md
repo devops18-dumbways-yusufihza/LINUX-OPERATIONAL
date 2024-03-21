@@ -40,4 +40,4 @@ salah satu contoh diatas untuk sistem ct1 untuk mengetahui service layanan
 
 ![perintah untuk systemct1 utk pemberhetian layanan](https://github.com/devops18-dumbways-yusufihza/LINUX-OPERATIONAL/assets/164095170/61348fc5-9d79-456c-91f0-9fe8f67bbe1d)
 
-salah satu conoth diatas untuk sistem ct1 untuk memberhentikan aplikasi yang dijalankan
+salah satu contoh diatas untuk sistem ct1 untuk memberhentikan aplikasi yang dijalankan
