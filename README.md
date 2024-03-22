@@ -2,6 +2,7 @@
 
 1.Ubuntu adalah sistem operasional linux yang digunakan untuk membuat sebuah dedicated server dan juga pengembangan server yang digunakan di dalam OS ubuntu dinilai lebih stabil dan efisien
 dan membantu untuk user yang masih pemula/belajar untuk membuat dedicated server secara lebih mudah
+
 CentOS adalah sistem operasional linux yang digunakan untuk membuat sebuah dedicated server hosting bagi komunitas dan memilki hal yang serupa untuk tujuan dasar dari distro 
 akan tetapi penggunaan dari centos yang bersifat komunitas dan perilasan yang lebih lama maka cent os memiliki tingkat kestabilan dan update aplikasi lebih stabil
 
